@@ -1,0 +1,9 @@
+c:\users\xx\documents\visual studio 2015\Projects\alberk\alberk\bin\Debug\alberk.exe.config
+c:\users\xx\documents\visual studio 2015\Projects\alberk\alberk\bin\Debug\alberk.exe
+c:\users\xx\documents\visual studio 2015\Projects\alberk\alberk\bin\Debug\alberk.pdb
+c:\users\xx\documents\visual studio 2015\Projects\alberk\alberk\obj\Debug\alberk.Form1.resources
+c:\users\xx\documents\visual studio 2015\Projects\alberk\alberk\obj\Debug\alberk.Properties.Resources.resources
+c:\users\xx\documents\visual studio 2015\Projects\alberk\alberk\obj\Debug\alberk.csproj.GenerateResource.Cache
+c:\users\xx\documents\visual studio 2015\Projects\alberk\alberk\obj\Debug\alberk.exe
+c:\users\xx\documents\visual studio 2015\Projects\alberk\alberk\obj\Debug\alberk.pdb
+c:\users\xx\documents\visual studio 2015\Projects\alberk\alberk\obj\Debug\alberk.csprojResolveAssemblyReference.cache
